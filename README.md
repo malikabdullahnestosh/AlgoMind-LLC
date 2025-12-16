@@ -1,5 +1,5 @@
-# Software Company Website    
-## ( [Click here to view the deployed website](https://sherwinvishesh.github.io/Software-Company-Website/) )
+# Algomind LLC Company Website   
+## ( [[Click here to view the deployed website](https://malikabdullahnestosh.github.io/AlgoMind-LLC/)) )
 
 This project represents my final internship project at Nexus Info, where I was tasked with creating a comprehensive website for a software company. The goal was to showcase my expertise in delivering top-notch web solutions.
 
@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - Gratitude to all the mentors and colleagues who provided guidance and support throughout this journey.
 
 
-Made with " ♥" by Sherwin Vishesh Jathanna
+Made with " ♥" by Malik Abdullah
 
